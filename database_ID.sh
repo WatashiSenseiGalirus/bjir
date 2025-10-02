@@ -99,3 +99,4 @@ Nama: Yudha Whoami: u0_a373
 Nama: junz Whoami: u0_a395
 Nama: AthrunZala Whoami: u0_a366
 Nama: YAMA Whoami: u0_a358
+Nama: Gatmor Whoami: u0_a258

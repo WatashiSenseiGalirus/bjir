@@ -106,3 +106,5 @@ Nama: AW Whoami: u0_a351
 Nama: donse27 Whoami: u0_a324
 Nama: abcdefg Whoami: u0_a310
 Nama: cyber313 Whoami: u0_a309
+Nama: tedyka Whoami: u0_a329
+Nama: IjulTakaz Whoami: u0_a354

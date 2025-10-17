@@ -119,7 +119,7 @@ Nama: admin_centang_biru Whoami: u0_a527
 Nama: fefrianty Whoami: u0_a441
 Nama: hendarhidayat Whoami: u0_a927
 Nama: said Whoami: u0_a410
-Nama: alfarizy_wb2 Whoami: u0_a269
+Nama: alfarizy_wb2 Whoami: u0_a285
 Nama: hanz Whoami: u0_a802
 Nama: Bakul_Soto Whoami: u0_a273
 Nama: KennetH Whoami: u0_a289

@@ -1,64 +1,64 @@
-
-Nama: Dika Whoami: u0_a171
-Nama: cybergalaxy Whoami: u0_a530
-Nama: FADHIL Whoami: u0_a345
-Nama: axae Whoami: u0_a271
-Nama: Kenneth Whoami: u0_a350
-Nama: cullen Whoami: u0_a395
-Nama: fvhrii Whoami: u0_a285
-Nama: faris Whoami: u0_a380
-Nama: Yudha Whoami: u0_a373
-Nama: junz Whoami: u0_a395
-Nama: AthrunZala Whoami: u0_a366
-Nama: YAMA Whoami: u0_a358
-Nama: Gatmor Whoami: u0_a258
-Nama: lisa Whoami: u0_a644
-Nama: Neospace Whoami: u0_a773
-Nama: AW Whoami: u0_a351
-Nama: donse27 Whoami: u0_a324
-Nama: abcdefg Whoami: u0_a310
-Nama: cyber313 Whoami: u0_a309
-Nama: tedyka Whoami: u0_a329
-Nama: IjulTakaz Whoami: u0_a354
-Nama: Gembonk Whoami: u0_a637
-Nama: Izeas  Whoami: u0_a140
-Nama: IRVAN Whoami: u0_a272
-Nama: chiper Whoami: u0_a405
-Nama: Rizki Whoami: u0_a367
-Nama: Shaaa Whoami: u0_a327
-Nama: REVAN Whoami: u0_a488
-Nama: admin_centang_biru Whoami: u0_a527
-Nama: fefrianty Whoami: u0_a441
-Nama: hendarhidayat Whoami: u0_a927
-Nama: said Whoami: u0_a410
-Nama: alfarizy_wb2 Whoami: u0_a307
-Nama: hanz Whoami: u0_a802
-Nama: Bakul_Soto Whoami: u0_a273
-Nama: KennetH Whoami: u0_a289
-Nama: Adrian Whoami: u0_a463
-Nama: Bian Whoami: u0_a435
-Nama: Jay Whoami: u0_a330
-Nama: SHIF4 Whoami: u0_a130
-Nama: mamu Whoami: u0_a317
-Nama: Mr_Pascol Whoami: u0_a308
-Nama: setyaa Whoami: u0_a204
-Nama: ari Whoami: u0_a349
-Nama: sigint Whoami: u0_a479
-Nama: hans Whoami: u0_a204
-Nama: arisubandi Whoami: u0_a155
-Nama: fadhil Whoami: u0_a276
-Nama: siska Whoami: u0_a281
-Nama: pamungkas Whoami: u0_a26
-Nama: tstore Whoami: u0_a883
-Nama: ms Whoami: u0_a298
-Nama: miko Whoami: u0_a447
-Nama: GEMBONK Whoami: u0_a716
-Nama: ananta Whoami: u0_a1363
-Nama: binm Whoami: u0_a264
-Nama: reza Whoami: u0_a313
-Nama: HARIANTO Whoami: u0_a315
-Nama: rio Whoami: u0_a935
-Nama: wilsn Whoami: u0_a299
-Nama: senka Whoami: u0_a290
-Nama: YAMA Whoami: u0_a392
-Nama: Andrax Whoami: u0_a809
+Nama: galirus Whoami: u0_a235 Permanent
+Nama: Dika Whoami: u0_a171 Permanent
+Nama: cybergalaxy Whoami: u0_a530 Permanent
+Nama: FADHIL Whoami: u0_a345 Permanent
+Nama: axae Whoami: u0_a271 Permanent
+Nama: Kenneth Whoami: u0_a350 Permanent
+Nama: cullen Whoami: u0_a395 Permanent
+Nama: fvhrii Whoami: u0_a285 Permanent
+Nama: faris Whoami: u0_a380 Permanent
+Nama: Yudha Whoami: u0_a373 Permanent
+Nama: junz Whoami: u0_a395 Permanent
+Nama: AthrunZala Whoami: u0_a366 Permanent
+Nama: YAMA Whoami: u0_a358 Permanent
+Nama: Gatmor Whoami: u0_a258 Permanent
+Nama: lisa Whoami: u0_a644 Permanent
+Nama: Neospace Whoami: u0_a773 Permanent
+Nama: AW Whoami: u0_a351 Permanent
+Nama: donse27 Whoami: u0_a324 Permanent
+Nama: abcdefg Whoami: u0_a310 Permanent
+Nama: cyber313 Whoami: u0_a309 Permanent
+Nama: tedyka Whoami: u0_a329 Permanent
+Nama: IjulTakaz Whoami: u0_a354 Permanent
+Nama: Gembonk Whoami: u0_a637 Permanent
+Nama: Izeas Whoami: u0_a140 Permanent
+Nama: IRVAN Whoami: u0_a272 Permanent
+Nama: chiper Whoami: u0_a405 Permanent
+Nama: Rizki Whoami: u0_a367 Permanent
+Nama: Shaaa Whoami: u0_a327 Permanent
+Nama: REVAN Whoami: u0_a488 Permanent
+Nama: admin_centang_biru Whoami: u0_a527 Permanent
+Nama: fefrianty Whoami: u0_a441 Permanent
+Nama: hendarhidayat Whoami: u0_a927 Permanent
+Nama: said Whoami: u0_a410 Permanent
+Nama: alfarizy_wb2 Whoami: u0_a307 Permanent
+Nama: hanz Whoami: u0_a802 Permanent
+Nama: Bakul_Soto Whoami: u0_a273 Permanent
+Nama: KennetH Whoami: u0_a289 Permanent
+Nama: Adrian Whoami: u0_a463 Permanent
+Nama: Bian Whoami: u0_a435 Permanent
+Nama: Jay Whoami: u0_a330 Permanent
+Nama: SHIF4 Whoami: u0_a130 Permanent
+Nama: mamu Whoami: u0_a317 Permanent
+Nama: Mr_Pascol Whoami: u0_a308 Permanent
+Nama: setyaa Whoami: u0_a204 Permanent
+Nama: ari Whoami: u0_a349 Permanent
+Nama: sigint Whoami: u0_a479 Permanent
+Nama: hans Whoami: u0_a204 Permanent
+Nama: arisubandi Whoami: u0_a155 Permanent
+Nama: fadhil Whoami: u0_a276 Permanent
+Nama: siska Whoami: u0_a281 Permanent
+Nama: pamungkas Whoami: u0_a26 Permanent
+Nama: tstore Whoami: u0_a883 Permanent
+Nama: ms Whoami: u0_a298 Permanent
+Nama: miko Whoami: u0_a447 Permanent
+Nama: GEMBONK Whoami: u0_a716 Permanent
+Nama: ananta Whoami: u0_a1363 Permanent
+Nama: binm Whoami: u0_a264 Permanent
+Nama: reza Whoami: u0_a313 Permanent
+Nama: HARIANTO Whoami: u0_a315 Permanent
+Nama: rio Whoami: u0_a935 Permanent
+Nama: wilsn Whoami: u0_a299 Permanent
+Nama: senka Whoami: u0_a290 Permanent
+Nama: YAMA Whoami: u0_a392 Permanent
+Nama: Andrax Whoami: u0_a809 Permanent

@@ -1,64 +1,64 @@
-Nama: galirus Whoami: u0_a235 Permanent
-Nama: Dika Whoami: u0_a171 Permanent
-Nama: cybergalaxy Whoami: u0_a530 Permanent
-Nama: FADHIL Whoami: u0_a345 Permanent
-Nama: axae Whoami: u0_a271 Permanent
-Nama: Kenneth Whoami: u0_a350 Permanent
-Nama: cullen Whoami: u0_a395 Permanent
-Nama: fvhrii Whoami: u0_a285 Permanent
-Nama: faris Whoami: u0_a380 Permanent
-Nama: Yudha Whoami: u0_a373 Permanent
-Nama: junz Whoami: u0_a395 Permanent
-Nama: AthrunZala Whoami: u0_a366 Permanent
-Nama: YAMA Whoami: u0_a358 Permanent
-Nama: Gatmor Whoami: u0_a258 Permanent
-Nama: lisa Whoami: u0_a644 Permanent
-Nama: Neospace Whoami: u0_a773 Permanent
-Nama: AW Whoami: u0_a351 Permanent
-Nama: donse27 Whoami: u0_a324 Permanent
-Nama: abcdefg Whoami: u0_a310 Permanent
-Nama: cyber313 Whoami: u0_a309 Permanent
-Nama: tedyka Whoami: u0_a329 Permanent
-Nama: IjulTakaz Whoami: u0_a354 Permanent
-Nama: Gembonk Whoami: u0_a637 Permanent
-Nama: Izeas Whoami: u0_a140 Permanent
-Nama: IRVAN Whoami: u0_a272 Permanent
-Nama: chiper Whoami: u0_a405 Permanent
-Nama: Rizki Whoami: u0_a367 Permanent
-Nama: Shaaa Whoami: u0_a327 Permanent
-Nama: REVAN Whoami: u0_a488 Permanent
-Nama: admin_centang_biru Whoami: u0_a527 Permanent
-Nama: fefrianty Whoami: u0_a441 Permanent
-Nama: hendarhidayat Whoami: u0_a927 Permanent
-Nama: said Whoami: u0_a410 Permanent
-Nama: alfarizy_wb2 Whoami: u0_a307 Permanent
-Nama: hanz Whoami: u0_a802 Permanent
-Nama: Bakul_Soto Whoami: u0_a273 Permanent
-Nama: KennetH Whoami: u0_a289 Permanent
-Nama: Adrian Whoami: u0_a463 Permanent
-Nama: Bian Whoami: u0_a435 Permanent
-Nama: Jay Whoami: u0_a330 Permanent
-Nama: SHIF4 Whoami: u0_a130 Permanent
-Nama: mamu Whoami: u0_a317 Permanent
-Nama: Mr_Pascol Whoami: u0_a308 Permanent
-Nama: setyaa Whoami: u0_a204 Permanent
-Nama: ari Whoami: u0_a349 Permanent
-Nama: sigint Whoami: u0_a479 Permanent
-Nama: hans Whoami: u0_a204 Permanent
-Nama: arisubandi Whoami: u0_a155 Permanent
-Nama: fadhil Whoami: u0_a276 Permanent
-Nama: siska Whoami: u0_a281 Permanent
-Nama: pamungkas Whoami: u0_a26 Permanent
-Nama: tstore Whoami: u0_a883 Permanent
-Nama: ms Whoami: u0_a298 Permanent
-Nama: miko Whoami: u0_a447 Permanent
-Nama: GEMBONK Whoami: u0_a716 Permanent
-Nama: ananta Whoami: u0_a1363 Permanent
-Nama: binm Whoami: u0_a264 Permanent
-Nama: reza Whoami: u0_a313 Permanent
-Nama: HARIANTO Whoami: u0_a315 Permanent
-Nama: rio Whoami: u0_a935 Permanent
-Nama: wilsn Whoami: u0_a299 Permanent
-Nama: senka Whoami: u0_a290 Permanent
-Nama: YAMA Whoami: u0_a392 Permanent
-Nama: Andrax Whoami: u0_a809 Permanent
+Nama: galirus Whoami: u0_a235 Expired Permanent
+Nama: Dika Whoami: u0_a171 Expired Permanent
+Nama: cybergalaxy Whoami: u0_a530 Expired Permanent
+Nama: FADHIL Whoami: u0_a345 Expired Permanent
+Nama: axae Whoami: u0_a271 Expired Permanent
+Nama: Kenneth Whoami: u0_a350 Expired Permanent
+Nama: cullen Whoami: u0_a395 Expired Permanent
+Nama: fvhrii Whoami: u0_a285 Expired Permanent
+Nama: faris Whoami: u0_a380 Expired Permanent
+Nama: Yudha Whoami: u0_a373 Expired Permanent
+Nama: junz Whoami: u0_a395 Expired Permanent
+Nama: AthrunZala Whoami: u0_a366 Expired Permanent
+Nama: YAMA Whoami: u0_a358 Expired Permanent
+Nama: Gatmor Whoami: u0_a258 Expired Permanent
+Nama: lisa Whoami: u0_a644 Expired Permanent
+Nama: Neospace Whoami: u0_a773 Expired Permanent
+Nama: AW Whoami: u0_a351 Expired Permanent
+Nama: donse27 Whoami: u0_a324 Expired Permanent
+Nama: abcdefg Whoami: u0_a310 Expired Permanent
+Nama: cyber313 Whoami: u0_a309 Expired Permanent
+Nama: tedyka Whoami: u0_a329 Expired Permanent
+Nama: IjulTakaz Whoami: u0_a354 Expired Permanent
+Nama: Gembonk Whoami: u0_a637 Expired Permanent
+Nama: Izeas Whoami: u0_a140 Expired Permanent
+Nama: IRVAN Whoami: u0_a272 Expired Permanent
+Nama: chiper Whoami: u0_a405 Expired Permanent
+Nama: Rizki Whoami: u0_a367 Expired Permanent
+Nama: Shaaa Whoami: u0_a327 Expired Permanent
+Nama: REVAN Whoami: u0_a488 Expired Permanent
+Nama: admin_centang_biru Whoami: u0_a527 Expired Permanent
+Nama: fefrianty Whoami: u0_a441 Expired Permanent
+Nama: hendarhidayat Whoami: u0_a927 Expired Permanent
+Nama: said Whoami: u0_a410 Expired Permanent
+Nama: alfarizy_wb2 Whoami: u0_a307 Expired Permanent
+Nama: hanz Whoami: u0_a802 Expired Permanent
+Nama: Bakul_Soto Whoami: u0_a273 Expired Permanent
+Nama: KennetH Whoami: u0_a289 Expired Permanent
+Nama: Adrian Whoami: u0_a463 Expired Permanent
+Nama: Bian Whoami: u0_a435 Expired Permanent
+Nama: Jay Whoami: u0_a330 Expired Permanent
+Nama: SHIF4 Whoami: u0_a130 Expired Permanent
+Nama: mamu Whoami: u0_a317 Expired Permanent
+Nama: Mr_Pascol Whoami: u0_a308 Expired Permanent
+Nama: setyaa Whoami: u0_a204 Expired Permanent
+Nama: ari Whoami: u0_a349 Expired Permanent
+Nama: sigint Whoami: u0_a479 Expired Permanent
+Nama: hans Whoami: u0_a204 Expired Permanent
+Nama: arisubandi Whoami: u0_a155 Expired Permanent
+Nama: fadhil Whoami: u0_a276 Expired Permanent
+Nama: siska Whoami: u0_a281 Expired Permanent
+Nama: pamungkas Whoami: u0_a26 Expired Permanent
+Nama: tstore Whoami: u0_a883 Expired Permanent
+Nama: ms Whoami: u0_a298 Expired Permanent
+Nama: miko Whoami: u0_a447 Expired Permanent
+Nama: GEMBONK Whoami: u0_a716 Expired Permanent
+Nama: ananta Whoami: u0_a1363 Expired Permanent
+Nama: binm Whoami: u0_a264 Expired Permanent
+Nama: reza Whoami: u0_a313 Expired Permanent
+Nama: HARIANTO Whoami: u0_a315 Expired Permanent
+Nama: rio Whoami: u0_a935 Expired Permanent
+Nama: wilsn Whoami: u0_a299 Expired Permanent
+Nama: senka Whoami: u0_a290 Expired Permanent
+Nama: YAMA Whoami: u0_a392 Expired Permanent
+Nama: Andrax Whoami: u0_a809 Expired Permanent

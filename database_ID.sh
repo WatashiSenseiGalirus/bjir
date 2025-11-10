@@ -1,4 +1,3 @@
-Nama: galirus Whoami: u0_a235 Expired Permanent
 Nama: Dika Whoami: u0_a171 Expired Permanent
 Nama: cybergalaxy Whoami: u0_a530 Expired Permanent
 Nama: FADHIL Whoami: u0_a345 Expired Permanent

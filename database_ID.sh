@@ -40,6 +40,7 @@ Nama: Jay Whoami: u0_a330 Expired Permanent
 Nama: SHIF4 Whoami: u0_a130 Expired Permanent
 Nama: mamu Whoami: u0_a317 Expired Permanent
 Nama: Mr_Pascol Whoami: u0_a308 Expired Permanent
+Nama: ZAYIN Whoami: u0_a308 Expired 7hari
 Nama: setyaa Whoami: u0_a204 Expired Permanent
 Nama: ari Whoami: u0_a349 Expired Permanent
 Nama: sigint Whoami: u0_a479 Expired Permanent

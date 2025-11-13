@@ -25,7 +25,6 @@ Nama: IRVAN Whoami: u0_a272 13/11/2025|Permanent
 Nama: chiper Whoami: u0_a405 13/11/2025|Permanent
 Nama: Rizki Whoami: u0_a367 13/11/2025|Permanent
 Nama: Shaaa Whoami: u0_a327 13/11/2025|Permanent
-Nama: REVAN Whoami: u0_a488 13/11/2025|Permanent
 Nama: admin_centang_biru Whoami: u0_a527 13/11/2025|Permanent
 Nama: fefrianty Whoami: u0_a441 13/11/2025|Permanent
 Nama: hendarhidayat Whoami: u0_a927 13/11/2025|Permanent
@@ -40,7 +39,7 @@ Nama: Jay Whoami: u0_a330 13/11/2025|Permanent
 Nama: SHIF4 Whoami: u0_a130 13/11/2025|Permanent
 Nama: mamu Whoami: u0_a317 13/11/2025|Permanent
 Nama: Mr_Pascol Whoami: u0_a308 13/11/2025|Permanent
-Nama: ZAYIN Whoami: u0_a308 13/11/2025|7hari
+Nama: ZAYIN Whoami: u0_a308 13/11/2025|Permanent
 Nama: setyaa Whoami: u0_a204 13/11/2025|Permanent
 Nama: ari Whoami: u0_a349 13/11/2025|Permanent
 Nama: sigint Whoami: u0_a479 13/11/2025|Permanent

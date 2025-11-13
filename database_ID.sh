@@ -65,5 +65,5 @@ Nama: Galirus Whoami: u0_a235 13/11/2025|2hari
 Nama: Rapp Whoami: u0_a443 13/11/2025|Permanent
 Nama: Rusdy Whoami: u0_a456 13/11/2025|Permanent
 Nama: wanwan Whoami: u0_a201 12/11/2025|1bulan
-Nama: crayonaverage Whoami: u0_a323 13/12/2025|1bulan
+Nama: crayonaverage Whoami: u0_a323 13/12/2025|Permanent
 Nama: forman Whoami: u0_a298 13/11/2025|Permanent

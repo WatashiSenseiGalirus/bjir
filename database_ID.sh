@@ -63,7 +63,7 @@ Nama: YAMA Whoami: u0_a392 13/11/2025|Permanent
 Nama: Andrax Whoami: u0_a809 13/11/2025|Permanent
 Nama: Galirus Whoami: u0_a235 15/11/2025|Permanent
 Nama: Rapp Whoami: u0_a443 13/11/2025|Permanent
-Nama: Rusdy Whoami: u0_a462 13/11/2025|Permanent
+Nama: Rusdy Whoami: u0_a460 13/11/2025|Permanent
 Nama: wanwan Whoami: u0_a201 12/11/2025|1bulan
 Nama: crayonaverage Whoami: u0_a323 13/12/2025|Permanent
 Nama: forman Whoami: u0_a298 13/11/2025|Permanent

@@ -70,4 +70,5 @@ Nama: forman Whoami: u0_a298 13/11/2025|Permanent
 Nama: resmob Whoami: u0_a257 13/11/2025|Permanent
 Nama: olan Whoami: u0_a284 13/11/2025|Permanent
 Nama: resasa Whoami: u0_a783 16/11/2025|2hari
-Nama: salman Whoami: u0_a304 16/11/2025|7hariNama: ivan Whoami: u0_a454 16/11/2026|Permanent
+Nama: salman Whoami: u0_a304 16/11/2025|7hari
+Nama: ivan Whoami: u0_a454 16/11/2026|Permanent

@@ -74,4 +74,3 @@ Nama: salman Whoami: u0_a304 16/11/2025|7hari
 Nama: ivan Whoami: u0_a454 16/11/2026|Permanent
 Nama: bagus Whoami: u0_a727 16/11/2026|7hari
 Nama: farel Whoami: u0_a63 21/11/2026|Permanent
-Nama: testing Whoami: u0_a245 22/11/2025|1hari

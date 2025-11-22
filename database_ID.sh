@@ -74,7 +74,5 @@ Nama: salman Whoami: u0_a304 16/11/2025|7hari
 Nama: ivan Whoami: u0_a454 16/11/2026|Permanent
 Nama: bagus Whoami: u0_a727 16/11/2026|7hari
 Nama: farel Whoami: u0_a63 21/11/2026|Permanent
-
 Nama: vivi Whoami: u0_a156 22/11/2026|Permanent
-
-Nama: kiki Whoami: u0_a339 23/11/2025|1hari
+Nama: kiki Whoami: u0_a339 24/11/2025|1hari

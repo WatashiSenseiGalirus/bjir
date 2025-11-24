@@ -9,7 +9,6 @@ Nama: faris Whoami: u0_a380 13/11/2025|Permanent
 Nama: Yudha Whoami: u0_a373 13/11/2025|Permanent
 Nama: junz Whoami: u0_a395 13/11/2025|Permanent
 Nama: AthrunZala Whoami: u0_a366 13/11/2025|Permanent
-Nama: YAMA Whoami: u0_a358 13/11/2025|Permanent
 Nama: Gatmor Whoami: u0_a258 13/11/2025|Permanent
 Nama: lisa Whoami: u0_a644 13/11/2025|Permanent
 Nama: Neospace Whoami: u0_a773 13/11/2025|Permanent

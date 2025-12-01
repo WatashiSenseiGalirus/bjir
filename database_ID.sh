@@ -78,3 +78,5 @@ Nama: kiki Whoami: u0_a344 24/11/2025|Permanent
 Nama: chll Whoami: u0_a316 24/11/2026|Permanent
 Nama: Riiosaka Whoami: u0_a203 24/11/2026|Permanent
 Nama: Izan Whoami: u0_a598 01/12/2025|1hari
+
+Nama: rams Whoami: u0_a222 01/12/2026|Permanent

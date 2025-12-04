@@ -82,3 +82,5 @@ Nama: kumbang Whoami: u0_a133 01/12/2026|Permanent
 Nama: rams Whoami: u0_a222 01/12/2026|Permanent
 
 Nama: San Whoami: u0_a396 04/01/2026|1bulan
+
+Nama: vicky Whoami: u0_a282 04/12/2026|Permanent

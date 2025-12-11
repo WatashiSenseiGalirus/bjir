@@ -87,3 +87,4 @@ Nama: vicky Whoami: u0_a282 04/12/2026|Permanent
 Nama: Mikey Whoami: u0_a834 04/12/2026|Permanent
 Nama: jihan Whoami: u0_a66 04/12/2026|Permanent
 Nama: nurhuda Whoami: u0_a265 04/12/2026|Permanent
+Nama: danny Whoami: u0_a68 11/12/2025|30hari

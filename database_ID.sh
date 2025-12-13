@@ -80,7 +80,7 @@ Nama: Riiosaka Whoami: u0_a203 24/11/2026|Permanent
 Nama: Izan Whoami: u0_a598 01/12/2025|1hari
 Nama: kumbang Whoami: u0_a133 01/12/2026|Permanent
 Nama: rams Whoami: u0_a222 01/12/2026|Permanent
-Nama: Otong Whoami: u0_a218 09/12/2025|100hari
+Nama: Otong Whoami: u0_a218 09/12/2025|2hari
 Nama: San Whoami: u0_a396 04/01/2026|1bulan
 Nama: sahid Whoami: u0_a353 05/12/2025|7hari
 Nama: vicky Whoami: u0_a282 04/12/2026|Permanent
@@ -89,3 +89,4 @@ Nama: jihan Whoami: u0_a66 04/12/2026|Permanent
 Nama: nurhuda Whoami: u0_a265 04/12/2026|Permanent
 Nama: danny Whoami: u0_a68 11/12/2025|30hari
 Nama: GREYGHOST0071 Whoami: u0_a346 04/12/2026|Permanent
+Nama: Haarlen Whoami: u0_a356 04/12/2026|Permanent

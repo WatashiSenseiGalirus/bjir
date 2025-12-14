@@ -90,3 +90,4 @@ Nama: danny Whoami: u0_a68 11/12/2025|30hari
 Nama: GREYGHOST0071 Whoami: u0_a346 04/12/2026|Permanent
 Nama: Haarlen Whoami: u0_a356 04/12/2026|Permanent
 Nama: elstalin Whoami: u0_a323 04/12/2026|Permanent
+Nama: BloodsKiL Whoami: u0_a321 14/12/2025|7hari

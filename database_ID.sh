@@ -64,7 +64,6 @@ Nama: Galirus Whoami: u0_a235 09/12/2025|Permanent
 Nama: Rapp Whoami: u0_a443 13/11/2025|Permanent
 Nama: Rusdy Whoami: u0_a460 13/11/2025|Permanent
 Nama: wanwan Whoami: u0_a201 12/11/2025|30hari
-Nama: crayonaverage Whoami: u0_a323 13/12/2025|Permanent
 Nama: forman Whoami: u0_a298 13/11/2025|Permanent
 Nama: resmob Whoami: u0_a257 13/11/2025|Permanent
 Nama: olan Whoami: u0_a284 13/11/2025|Permanent
@@ -90,3 +89,4 @@ Nama: nurhuda Whoami: u0_a265 04/12/2026|Permanent
 Nama: danny Whoami: u0_a68 11/12/2025|30hari
 Nama: GREYGHOST0071 Whoami: u0_a346 04/12/2026|Permanent
 Nama: Haarlen Whoami: u0_a356 04/12/2026|Permanent
+Nama: elstalin Whoami: u0_a323 04/12/2026|Permanent

@@ -63,7 +63,7 @@ Nama: Andrax Whoami: u0_a809 13/11/2025|Permanent
 Nama: Galirus Whoami: u0_a235 09/12/2025|Permanent
 Nama: Rapp Whoami: u0_a443 13/11/2025|Permanent
 Nama: Rusdy Whoami: u0_a460 13/11/2025|Permanent
-Nama: wanwan Whoami: u0_a201 12/11/2025|1bulan
+Nama: wanwan Whoami: u0_a201 12/11/2025|30hari
 Nama: crayonaverage Whoami: u0_a323 13/12/2025|Permanent
 Nama: forman Whoami: u0_a298 13/11/2025|Permanent
 Nama: resmob Whoami: u0_a257 13/11/2025|Permanent
@@ -81,7 +81,7 @@ Nama: Izan Whoami: u0_a598 01/12/2025|1hari
 Nama: kumbang Whoami: u0_a133 01/12/2026|Permanent
 Nama: rams Whoami: u0_a222 01/12/2026|Permanent
 Nama: Otong Whoami: u0_a218 09/12/2025|10000hari
-Nama: San Whoami: u0_a396 04/01/2026|1bulan
+Nama: San Whoami: u0_a396 04/01/2026|30hari
 Nama: sahid Whoami: u0_a353 05/12/2025|7hari
 Nama: vicky Whoami: u0_a282 04/12/2026|Permanent
 Nama: Nay Whoami: u0_a835 04/12/2026|Permanent

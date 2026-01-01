@@ -112,3 +112,4 @@ Nama: tebear Whoami: u0_a336 29/12/2025|Permanent
 Nama: firman Whoami: u0_a358 30/12/2025|2hari
 Nama: CouldWolf27 Whoami: u0_a370 01/01/2026|Permanent 
 Nama: Renaisans Whoami: u0_a275 01/01/2026|30hari
+Nama: aska Whoami: u0_a310 01/01/2026|Permanent

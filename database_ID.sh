@@ -113,3 +113,4 @@ Nama: firman Whoami: u0_a358 30/12/2025|2hari
 Nama: CouldWolf27 Whoami: u0_a370 01/01/2026|Permanent 
 Nama: Renaisans Whoami: u0_a278 01/01/2026|Permanent
 Nama: aska Whoami: u0_a310 01/01/2026|Permanent
+Nama: Afj Whoami: u0_a159 01/01/2026|Permanent

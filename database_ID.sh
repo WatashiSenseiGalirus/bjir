@@ -51,6 +51,7 @@ Nama: tstore Whoami: u0_a883 13/11/2025|Permanent
 Nama: ms Whoami: u0_a298 13/11/2025|Permanent
 Nama: miko Whoami: u0_a447 13/11/2025|Permanent
 Nama: GEMBONK Whoami: u0_a716 13/11/2025|Permanent
+Nama: ikky.2gd Whoami: u0_a1659 13/11/2025|Permanent
 Nama: ananta Whoami: u0_a1363 13/11/2025|Permanent
 Nama: binm Whoami: u0_a264 13/11/2025|Permanent
 Nama: reza Whoami: u0_a313 13/11/2025|Permanent

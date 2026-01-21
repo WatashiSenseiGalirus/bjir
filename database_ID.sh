@@ -61,7 +61,7 @@ Nama: wilsn Whoami: u0_a299 13/11/2025|Permanent
 Nama: senka Whoami: u0_a290 13/11/2025|Permanent
 Nama: YAMA Whoami: u0_a392 13/11/2025|Permanent
 Nama: Andrax Whoami: u0_a809 13/11/2025|Permanent
-Nama: Galirus Whoami: u0_a2o35 09/12/2025|Permanent
+Nama: Galirus Whoami: u0_a235 09/12/2025|Permanent
 Nama: Rapp Whoami: u0_a443 13/11/2025|Permanent
 Nama: Rusdy Whoami: u0_a462 13/11/2025|Permanent
 Nama: wanwan Whoami: u0_a201 12/11/2025|Permanent

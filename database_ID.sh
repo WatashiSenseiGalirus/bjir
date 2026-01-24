@@ -126,4 +126,4 @@ Nama: afan Whoami: u0_a238 01/01/2026|Permanent
 Nama: arif Whoami: u0_a922 01/01/2026|Permanent
 Nama: Bima Whoami: u0_a321 01/01/2026|Permanent
 Nama: mpok Whoami: u0_a335 01/01/2026|Permanent
-Nama   : Tinw Whoami: u0_a300 01/01/2026|Permanent
+Nama: Tinw Whoami: u0_a300 01/01/2026|Permanent

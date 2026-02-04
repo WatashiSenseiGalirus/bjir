@@ -130,3 +130,4 @@ Nama: Tinw Whoami: u0_a300 01/01/2026|Permanent
 Nama: desi Whoami: u0_a1171 01/01/2026|Permanent
 Nama: dokter Whoami: u0_a507 01/01/2026|Permanent
 Nama: noname Whoami: u0_a336 01/01/2026|Permanent
+Nama: Exynos Whoami: u0_a265 01/01/2026|Permanent

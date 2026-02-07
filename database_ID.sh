@@ -1,4 +1,5 @@
 Nama: Dika Whoami: u0_a171 13/11/2025|Permanent
+Nama: Abdi_Soekarno Whoami: u0_a250 13/11/2025|Permanent
 Nama: cybergalaxy Whoami: u0_a530 13/11/2025|Permanent
 Nama: FADHIL Whoami: u0_a345 13/11/2025|Permanent
 Nama: axae Whoami: u0_a271 13/11/2025|Permanent

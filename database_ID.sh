@@ -25,7 +25,6 @@ Nama: IRVAN Whoami: u0_a272 13/11/2025|Permanent
 Nama: chiper Whoami: u0_a405 13/11/2025|Permanent
 Nama: Rizki Whoami: u0_a367 13/11/2025|Permanent
 Nama: Shaaa Whoami: u0_a327 13/11/2025|Permanent
-Nama: Kangfurqon1999 Whoami: u0_a284 01/01/2026|Permanent
 Nama: admin_centang_biru Whoami: u0_a527 13/11/2025|Permanent
 Nama: fefrianty Whoami: u0_a441 13/11/2025|Permanent
 Nama: hendarhidayat Whoami: u0_a927 13/11/2025|Permanent
@@ -126,6 +125,7 @@ Nama: Salza09 Whoami: u0_a767 01/01/2026|Permanent
 Nama: tengil Whoami: u0_a282 01/01/2026|Permanent
 Nama: afan Whoami: u0_a238 01/01/2026|Permanent
 Nama: arif Whoami: u0_a922 01/01/2026|Permanent
+Nama: Kangfurqon Whoami: u0_a284 01/01/2026|Permanent
 Nama: Bima Whoami: u0_a321 01/01/2026|Permanent
 Nama: mpok Whoami: u0_a335 01/01/2026|Permanent
 Nama: Tinw Whoami: u0_a300 01/01/2026|Permanent

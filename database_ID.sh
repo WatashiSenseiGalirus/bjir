@@ -147,3 +147,4 @@ Nama: sheehan Whoami: u0_a360 01/01/2026|Permanent
 Nama: memoy Whoami: u0_a1150 01/01/2026|Permanent
 Nama: JazzTio Whoami: u0_a424 01/01/2026|Permanent
 Nama: Arief Whoami: u0_a337 01/01/2026|Permanent
+Nama: tupa Whoami: u0_a391 01/01/2026|Permanent

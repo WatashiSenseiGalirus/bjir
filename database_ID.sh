@@ -153,3 +153,4 @@ Nama: tupa Whoami: u0_a391 01/01/2026|Permanent
 Nama: Starwarst Whoami: u0_a125 01/01/2026|Permanent
 Nama: farhanel Whoami: u0_a38 01/01/2026|Permanent
 Nama: Ardhi Whoami: u0_a385 01/01/2026|Permanent
+Nama: novie Whoami: u0_a292 01/01/2026|Permanent
